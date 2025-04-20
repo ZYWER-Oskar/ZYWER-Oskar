@@ -1,16 +1,13 @@
-## Hi there 👋
+# YO
+I PLAY RHYTHM GAMES 🇵🇱 😱 🤯 😎<br>JRPG AND VN LOVER<br>MUSIC NERD (Hardstyle, Eurobeat, VGM + lots more)
 
-<!--
-**ZYWER-Oskar/ZYWER-Oskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oskartm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tm_oskar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@oskartm8985) 
 
-Here are some ideas to get you started:
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=ZYWER-Oskar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ZYWER-Oskar&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZYWER-Oskar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ZYWER-Oskar&icon=1&color=3)](https://visitcount.itsvg.in)
