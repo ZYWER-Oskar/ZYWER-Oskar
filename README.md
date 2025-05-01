@@ -11,5 +11,3 @@ I PLAY RHYTHM GAMES 🇵🇱 😱 🤯 😎<br>JRPG AND VN LOVER<br>MUSIC NERD (
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZYWER-Oskar&icon=1&color=3)](https://visitcount.itsvg.in)
----
-<a href="https://downloads.khinsider.com/?u=2276476">KHInsider Video Game Music</a>
