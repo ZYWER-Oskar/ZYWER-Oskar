@@ -1,4 +1,4 @@
-# YO
+# Hello!
 I PLAY RHYTHM GAMES 🇵🇱 😱 🤯 😎<br>JRPG AND VN LOVER<br>MUSIC NERD (Hardstyle, Eurobeat, VGM + lots more)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oskartm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tm_oskar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@oskartm8985) 
